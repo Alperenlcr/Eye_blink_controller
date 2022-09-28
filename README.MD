@@ -11,6 +11,6 @@
 
 Now you can run code
 
-Run blink.py and the code follows your sleepiness
+Run blink.py and the code follows your eye blinks.
 
 https://user-images.githubusercontent.com/75525649/192763825-f0495ace-2b1e-4781-8c8e-20aab761858b.mp4
